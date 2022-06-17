@@ -17,7 +17,7 @@ Also contains player names with their age and number of gold , silver and brone 
 | 7 | Gold_medal | Numeric    |Discrete    | 
 | 8 | Silver_Medal  | Numeric    |Discrete    | 
 | 9 | Brone_medal  | Numeric    |Discrete    | 
-| 10 | Total_Medal  | Numeric    |Disrete   |      
+| 10 | Total_Medal  | Numeric    |Discrete   |      
 
 ## Pipeline of Olympic data Analysis
 ### Basic Exploration --- Remove Duplicates --- Missing Values --- Removing special characters --- Numerical measures --- Top 10 countries with medal --- Checking Age Column --- Data Visualisation
