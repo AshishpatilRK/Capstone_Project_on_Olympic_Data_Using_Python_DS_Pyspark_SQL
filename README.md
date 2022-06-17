@@ -20,8 +20,7 @@ Also contains player names with their age and number of gold , silver and brone 
 | 10 | Total_Medal  | Numeric    |Disrete   |      
 
 ## Pipeline of Olympic data Analysis
-### Basic Exploration --- Remove Duplicates --- Missing Values --- Removing special characters ---
-### Numerical measures --- Top 10 countries with medal --- Checking Age Column --- Data Visualisation
+### Basic Exploration --- Remove Duplicates --- Missing Values --- Removing special characters --- Numerical measures --- Top 10 countries with medal --- Checking Age Column --- Data Visualisation
 
 ## Libraries:
 * Pandas # data processing, CSV file I/O (e.g. pd.read_csv)
